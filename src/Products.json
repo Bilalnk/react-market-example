@@ -1,0 +1,28 @@
+[
+  {
+    "id" : 1,
+    "title" : "Sakız",
+    "price" : 0.5,
+    "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82.jpg"
+  },
+
+  {
+    "id" : 2,
+    "title" : "Kola",
+    "price" : 6,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/22/3539/d365ffae-7e3f-4bc1-b5b4-c7a2c5569002_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id" : 3,
+    "title" : "Ayakkabı",
+    "price" : 400,
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/449c838942da409f8ba9a97f00d3cffe_9366/Runfalcon_Ayakkabi_Siyah_F36199_01_standard.jpg"
+  },
+  {
+    "id" : 4,
+    "title" : "Araba",
+    "price" : 40000,
+    "image": "https://productimages.hepsiburada.net/s/33/1500/10417707089970.jpg"
+
+  }
+]
