@@ -2,20 +2,20 @@
   {
     "id" : 1,
     "title" : "Sakız",
-    "price" : 0.5,
+    "price" : 0.1,
     "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82.jpg"
   },
 
   {
     "id" : 2,
     "title" : "Kola",
-    "price" : 6,
+    "price" : 2,
     "image": "https://ayb.akinoncdn.com/products/2019/01/22/3539/d365ffae-7e3f-4bc1-b5b4-c7a2c5569002_size780x780_quality60_cropCenter.jpg"
   },
   {
     "id" : 3,
     "title" : "Ayakkabı",
-    "price" : 400,
+    "price" : 100,
     "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/449c838942da409f8ba9a97f00d3cffe_9366/Runfalcon_Ayakkabi_Siyah_F36199_01_standard.jpg"
   },
   {
@@ -24,5 +24,94 @@
     "price" : 40000,
     "image": "https://productimages.hepsiburada.net/s/33/1500/10417707089970.jpg"
 
+  },
+
+  {
+    "id" : 5,
+    "title" : "Telefon",
+    "price" : 1500,
+    "image": "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/125077846/125077846_0_MC/47110694.jpg"
+
+  },
+
+  {
+    "id" : 6,
+    "title" : "Laptop",
+    "price" : 3000,
+    "image": "https://productimages.hepsiburada.net/s/39/375/10617274728498.jpg"
+
+  },
+
+  {
+    "id" : 7,
+    "title" : "Airpods Pro",
+    "price" : 350,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MWP22?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1591634795000"
+  },
+
+  {
+    "id" : 8,
+    "title" : "Airpods Max",
+    "price" : 650,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/115719-1_large.jpg"
+  },
+
+  {
+    "id" : 9,
+    "title" : "Televizyon",
+    "price" : 900,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/tcl/thumb/109321_large.jpg"
+  },
+
+  {
+    "id" : 10,
+    "title" : "Bahçe Mobilyası",
+    "price" : 200,
+    "image": "https://cdn03.ciceksepeti.com/cicek/kc9729538-1/L/meya-dekor-tria-balkon-bahce-teras-oturma-grubu-bahce-mobilyasi-kc9729538-1-29e9c59c9e2f494abf5a2260fbc60527.jpg"
+
+  },
+
+  {
+    "id" : 11,
+    "title" : "Çeyrek Altın",
+    "price" : 138.50,
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhEREhEQFRUXERUSEhUQFRYVFhcXFRcWFxUYFRgYHSggGBolHRUWIjEhJikrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGi0lICUtLSstLTIwLS0tLS8wLS0tLS0tLS0tLS0tLS0tLS0tNy0tLS0tLS0tLS0tLS0tLS0rLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAwQBAgUGB//EADYQAAICAQMCBAMGBgIDAQAAAAABAhEDEiExBEEiUWFxBROBBjJCkaGxFCNiwdHhUvAVcpJj/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAECBAMFBv/EACcRAQEAAgEDAgYDAQAAAAAAAAABAhEDBCExEkEiMjNRcYEFE5Ej/9oADAMBAAIRAxEAPwD7iAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYbMlP4q/wCTl3r+XJWu1prYjK6myK3w/wC0HT58k8OOdzi2mtLS25p8M6p8h6L4lDp4Qz9K9vnwxyySduUZfeTvhqkmj66mZ+m57yy7neOnJh6ayADS5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDK3WdfiwJPLkhjT4c5KN+1kWyeTW1o5f2nyuHSdTKP3lhm4+6W36nLy/bPE1P+Hw9TncZKL+Xjaj7qUqVFL478U63Nh6mEeh0weCSTnkjrbaeyjHn8zPydRx6s2648WW+8fNvs9Ger5OWkvmqaXnNud+71UffYrZex8V+DdNL52PLpUkoypt1HVBxaUr43TVnvMH2l6zTGUugjO5NX02eEkl5vVW/oZum5sMd3Lta683Hbez14PMQ+2/TRclnWbptLrV1OOUIPj7suHyeh6fqIZEpQnGSaTTi01T44N+PJjl4rPlhlj5iYAF1QAAAAAAAAAAAAAAAAAAAAAAMAGQ9Z1cMMXPJOMYpW3J0iL4l18MENc36RSq5PyV9zyMoZupyLLnWlwi2sTnqxQX9SjXzJ7LnZGXqOpx4u3u68fFc+/suZvjnUdVpfTKOLA07z5fvNeeOHf60UcXwSGpeHJ1E4vU82dqTTe/gUmop7l2Ucvhm5Rab2VNduy7ceZIsUElc2m21bfHsvK6s8fk58+S/FWuYTGdmzjKvCpS2qtUXvez07KvYY8XzdMaVpeKT1bq9ls6+jJoZXF6pKlF76ZKXK27bIjzRc6qFW9vr7VZz3qoSqEYKLivNSpbp+bfoR5cDg7122tX3Um/VtdxLBJ3rx20vDo4tcPdpfmQSt3ruKpXtJO2uGvJvy/QnPPtonlmOXJLwNQSdKMc0JaX7Nrk5n/hdEsmTDfTZqqU+mb27+LFJ6ZR72q/c68ZqUVLZ6ZJVG3SXdJ7+/cNKcZypxpKpONJtO/Cnu0VxzsvZKPp/tHl6fbrYwWJRVdXB+CT4/mQ5xv9D1GHLGaUotSi0nFp2mnw0zy8c0VGWqUZW9Li1FJ1u4tva2ntfkU8HUz6Wc8vT/NzRnKOvpZSitC7ywp/nV1sej0/XXtOT/XLk4Jfle4BB0fVwyxU8clKLtWmnutmn6p9ic9WXbIAAkAAAAAAAAAAAAAAAACHquojjhKc2lGMXKTeySXqS2cH41n+ZkWO46IeLIuW214Y+S+pw6jmnFhcqvx4eq6c6blmn/EZIRm7b6WMYuWhUlrblsnzuq5J8TjFJttLxaZR+7vs7899yNfNlKqqW9yTqO/G9fpRJGORJW2qerdJ7rza5PAvL6r6q3a7aHKWjltXcm1vXnT3qyTpsTnGn57y06W1/SnvX+TbFSUZSbbk7V8WbvE5S1J1F02nerbyd7LgjcRai6eOLVSgm1aX4mmub7L0JcU8kk01T014+z7Uls19SdQV2kvojCmuN37f5IVqGEMijJXBNqldvja3vwzVTnGMm0u1eJtpd3v5eSLGt+S+sv8ARjX6P6eL/ZWiDUppTtxldJ1Ta9YvlEXypqvHrg3wvTt3tbeZby445Et9ru4un+a3RFKc4tRim1SSbW3l42WShjPwtTa06kn2lXlL09TXqenxyUpJNKLSj8tRuG33vX2J8uKMW5rS7WmVq9N/pXuVF1rS0w0pXs0tt/Zaf1LT7U894i6bJ/Ay+bF4Y9O9U+r5TUnVZVWy73/o9hCaaTTTTVprhp8NHk8c2m4ZIPQ6jJNbb7eK+37nR+z+dwlPpsk4OUW54VHZ/Jukq709r9Uel0PPfp5fpy58N/FHdAB6jKAAAAAAAAAAAAAAAAjz5NEZSfCTf5HmMUG4qUnFSlJylp3865528zsfaB/ytOm9UoxafFXbv6Lg42bLu4xTenw0lVJLe9q9jxf5PPeUw+zX081Nt3Lf7s2uzS1Xa4bvZvm+CfF4pbu6W67Lzt92V4ZI5Gr7d4cNVxa49mWVCSjHSu9yV7v2Z5sldqzCWtuM4uuXatWnsr7k8YpJJbLskYxXS1Vfenf6mzLKoc0rain6yry8vqSx4qtinJy1WmnFvy32XZ3uti3HdbFd3abOw17GrXt+xtZrqAxx4v8A69V/kmIsnD9mbwey9kWlRYghiUNpNy8NLZJV3tLb6kfy3FqKl5uMqV0+VS2ZN1cIVqmlsqt+Xl7MiyZlTlGvD4Gk1tx/2i5GmKdtuTk/C1UvXi9lZDJPFPDlhGL0ySk5XaxTtSS9nvRs5Y4+KPzLaaUW3pjJ7XUuGRzg543GeOk4O7/F5af9l8bcbv8Aae1etsyU/hObXhxSd24K781s/wBi4fRY31SVgs1dAALIAAAAAAAAAAAAAHG+PvfCt/vykvLZcv8AP9SnDKlvHd6d4JeK73dXuXPjz8fT7/jkq87j39OShjTVpTaVuNpJ8e//AGz57+Qv/e/pt4vpxmeHU9aaT53W6aXCX73ZJkxu41KKVKPG672vUhnmUdlvUnv5369yTJC2paqtJOPevdbpmOXbppcTIetyNR2jJ7pNQVuu9EsTLLd9K+6rjz66pSS32nHTuvQnjJlemnfbU/YsRZW+V7OzOSTrjchxt212W/5kk99ra9tmhDGoql+u7fq2WtVaZZX4V3e/t3JyOMeX9DdMiFZbq+XtwuStiyRmnHhJJtK0/b9KZYbpbbv8itj6jVGVqlS5TW8n2vZr1O2NiGmGNU9Oq7WlPh7V/tmqc4yqSpNypqntLta72ZWVSdRlCMlblfH13W/qvUZscVKvx7eJWm9t21x5jfZPu6P2aleBbt1Oat/+z/ydY5X2bT+Tuoq5zfh4q/Q6p9B0/wBLH8Ri5Pnv5AAdlAAAAAAAAAAAAAByftJH+Vr28E4zb9OH+5x+rnb0b7u1FXW+8e1N96b7HqOrwrJCcHxKLR5fos7UVGfMZfLnfCmuL9zxP5Pj+OZ/fs19Pfh0mjig01vJrhtLeu23Y2lFNbycdO1xrv2s0+TLU6dpOtkr80pNvZeqM43WzW0rjLTUdD+tOvU86R3XMTVUtqpNeRJRUx5I43oSrdUm3vfdX2LiOskUrn5uiyJuWPK1/RNJw39V4kZ6ZZd1NQTT/DK19NkdCiDiT9UmVyiZlWYqjKKn8W52sMVKnTnJ1jXnTW836L8zK6Ob+/nyX/8AmowX7N/qRZTa3j4+rM0Yxx0pK2/WTt/UN1uNIadQ5JeFNu1sua71fHuRTy+Bak7b2jW9eq77GZY5SkmmtP1tVzV7b8GuTmckm2k6flXCj6nTQqrpYzulpq5OMrteTV7q+/sRRm4/Mk7dR3pvU7VLbv8AR0TdNkU3TnqVO6lbV+q4v3I+r/myhgTac8l/y1xBc2+ypMY422SLfl6D4Fh0dPiVNeBSae7Tl4t/zOgYUa2Mn0mOPpkjz7d3YACyAAAAAAAAAAAAABho838ZwrDlc3tiyrTPa0sjpJtev9j0pB1vSxywcJcP9Gt016pnDqOH+3C4r8efpu3l8UZ3VSjfhdurXak7C6ecWn7qm7derk/rS/Mxik8TeHNq+Yk5a6+9BOoyXnSrYs+GauUpNRW706bfav8AR8/6LjdXy3b+yXDaTjcXJLTqql7NLirNsMpL7ypbJb2744fYhkmqk1+Hm6ftJf3I/nSkksmLl+HU637U33/IsjTpQkmtvYrdT0jyS8Uqh3jHZy9G+0fRcmqWy+WlSvWm9L39uWbZs8sajq323cYvlefkvUKrKikkkkklSS2S9kaykQdR1ThVx5V7W9+6dLZf1EfUTndKPK/D24u72foUzWxizrKyzLJ4PErvhSi9ntb7f3IZVq1fNVXbVqW/l6L0RtkzSe8Yvd8fdbSqm73rkpLVtJZJJaY22396+Zf9+hDrnBeFN71fNv2229TLk9KbUlu4pxjvXbi+TecUlScmrVxnb37VZ1RpWl1T8WvTFrepUor+qn+Zf+zPTt6s8nal4cW1eFPeW/dv9jnYIS6rJ8qM9WOLvPJq78ow7Vyv1PX44KKSSSSVJLhJHo9Dwbv9l/ThzZ6npjYAHqsoAAAAAAAAAAAAAAAAYMgDn/F/hkeog1bjJJ6JrZp/Tleh5pR0SljyJQnGlHU7hkT/AOP/ABftse0K3X9Bjzx0ZIpr9V6p9jJ1HSzl7zy68fL6e18ODOKW3iXv2vem3wlvuzbL1KteKKTScbmo2vNXyQdf8LzYdctPz4bU+MsV3XHij6cehFi67VJxUcckktUZVCvpLY8nPiywy1lGqZTKdljI9S1K01y4yUWre272+hrHq3FteKq8P4nL6ef7mmT5i8FSUH2ajsn/AFJUSqcI6lum6q1auqWn/COXusmlmmm68SVW24JeveyvDJLJcdSSt8U/obfJjFOU449SdNxWzT7b8r0Ic8pPxxcYpUtPhbXk9uN+z/NC4kbS8DqlKtraW+26dUkvcxieNfdk95JpR3b+r/DuRSqblqUJNNXTfiX/ABko2nXrZD/5GOp1HXK9Kx4Fc748bXCXkRMe621yGSSuKpJtu5bfvsv0IYQydVkcMVxUaUslXFKt6f4pFnpvgeXqL/iahibTWGG0nXGtnpum6eOOKhCKjFcJHocHRZZd8/DPnzSfL5R9D0ccMFCC45b5b7tvuyyAetJJNRkt2AAkAAAAAAAAAAAAAAAAAAAAAAo9f8Kw57+Zji3VauJfmi3PJXq/JFXI5yq20vKO36lM/TrVm1sd+Y4+f4H8rS4dVKKiqUctTXpS23RzsuPqYqlPFNxlu4KcW4vtdVz29T0v8LFfhV3dy3f5kjwt/wBzFnwYXxjp2nJZ7vIfI6i5fyou/FHU5NetruyfBizbNyxYk1pajibf02PT/wAMn27dlX5BYq5cvTeyk6aT2WvLa43S/Z/DPTHJ1GTLp3ilL5aXvGPJ3uj6HHhVY8cI/wDqkm/d8srS6VSu1d7vb+5tjxyi/DJ12i91/o1ccxw8YuWVt91+jJDjzdpKn+hMaJduQACQAAAAAAAAAAAAAAABgyAAAAAwzIA10jSbAjQ10jSbAaGukaTYDQ1cRpNgNQa6RFUbAnQAAAAAMGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAP/2Q=="
+
+  },
+
+  {
+    "id" : 12,
+    "title" : "dji mavic pro",
+    "price" : 1840,
+    "image": "https://productimages.hepsiburada.net/s/22/375/9945448972338.jpg"
+  },
+
+  {
+    "id" : 13,
+    "title" : "Peugeot-208",
+    "price" : 37230,
+    "image": "https://media.peugeot.com.tr/image/05/3/10.525053.19.png?autocrop=1"
+  },
+
+  {
+    "id" : 14,
+    "title" : "Monitor",
+    "price" : 250,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dell/thumb/TeoriV2-104852_large.jpg"
+
+  },
+
+  {
+    "id" : 15,
+    "title" : "İşlemci",
+    "price" : 680,
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/intel/thumb/v2-92111_large.jpg"
+  },
+
+  {
+    "id" : 16,
+    "title" : "Mouse",
+    "price" : 20,
+    "image": "https://ae01.alicdn.com/kf/H78fc4631a7d94a2ea933ce80f4e93806s/Orijinal-Razer-DeathAdder-temel-kablolu-Gaming-Mouse-fare-6400DPI-optik-sens-r-5-profesyonel-oyun-PC.jpg"
   }
 ]

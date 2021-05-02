@@ -53,7 +53,9 @@ function Product({product, basket, setBasket, total, money}) {
                     }
                     
                     .product img {
-                        width: 100%
+                    width: 100%
+                    width: 208.4px;
+                    height: 208.4px;
                     }
                     
                     .product h6 {
@@ -69,6 +71,7 @@ function Product({product, basket, setBasket, total, money}) {
                     .product .price{
                     font-size: 20px;
                     color: green;
+                    text-align: center;
                     }
                     
                     .actions button{
@@ -113,7 +116,6 @@ function Product({product, basket, setBasket, total, money}) {
                        color: #555
                     }
                 `}
-
 
 
                 </style>

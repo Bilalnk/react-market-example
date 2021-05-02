@@ -7,7 +7,7 @@ function Basket({basket, products, total, resetBasket}) {
         <>
             <div className="basket-container container">
 
-                <h3> DETAY </h3>
+                <h3 className="detail"> DETAY </h3>
                 <ul>
                     {basket.map(item => (
                         <BasketItem key={item.id} product = {products.find(p => p.id === item.id)} item={item}></BasketItem>
@@ -49,11 +49,21 @@ function Basket({basket, products, total, resetBasket}) {
                         background: green;
                         color: white;
                         height: 40px;
+                        
                         font-size: 17px;
                         padding: 0 20px;
                         font-size: 16px;
                         font-weight: 500;
                         cursor: pointer;
+                        width: 100%;
+                        border-radius: 8px;
+                        margin-top: 20px;
+                     }
+                     
+                     .basket-container .detail{
+                        border-bottom: 1px solid #ddd;
+                        padding-bottom: 10px;
+                        margin-bottom: 10px;
                      }
                 `}
             </style>

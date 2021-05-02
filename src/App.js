@@ -1,7 +1,7 @@
 
 import './App.css';
 import Header from './components/Header';
-import {useState, useEffect} from 'react';
+    import {useState, useEffect} from 'react';
 import products from './Products.json'
 import Product from "./components/Product"
 import Basket from "./components/Basket"
