@@ -1,4 +1,8 @@
-preview: https://reactmarketapp.netlify.app/
+##  preview demo: https://reactmarketapp.netlify.app/
+
+![image](https://user-images.githubusercontent.com/50082041/118405435-9366f780-b680-11eb-851b-80f149941a0d.png)
+
+![image](https://user-images.githubusercontent.com/50082041/118405474-c4dfc300-b680-11eb-8c7a-bd60ab5bcdd9.png)
 
 
 # Getting Started with Create React App
